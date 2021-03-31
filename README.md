@@ -14,7 +14,7 @@ This repository contains code for the Vision task for the NNTI Project, Winter S
 Task 1: <br/>
 Simple object segmentation on the PASCAL VOC dataset of 21 classes.<br/><br/>
 We ran the complete notebook with our best configurations before uploading it, and thus all the outputs can be seen directly form the notebook.
-In case, the notebook doesn't open in github, please try downloading it and opening it locally.
+In case, the notebook doesn't open in github, please try downloading and opening it locally.
 
 Task 2:<br/>
 Implementation of Recurrent Residual Convolutional Neural Network (R2U-Net)<br/>
