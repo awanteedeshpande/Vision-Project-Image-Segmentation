@@ -38,7 +38,3 @@ Sample predictions with the original images and ground truths are present in the
 This repository also contains the project report with the description, results, and analysis.
 
 -----------------------------------------------------------------------------------------------------------------------
-
-Drive link containing our best model for each task: https://drive.google.com/drive/folders/1mOjQ5ZxYTA_Ck5ZtSSmX5eF1PONRNS2W?usp=sharing
-
-
